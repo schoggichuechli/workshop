@@ -1,4 +1,4 @@
 ﻿# workshop
 
 ## für Eaton
-hallo Sepp
+hallo Fritz
